@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 const List<Color> mainColors = const <Color>[
   Colors.black,
   const Color(0xFF980000),
-  const Color(0xFFFF00000),
+  const Color(0xFFFF0000),
   const Color(0xFFFF9900),
   const Color(0xFFFFFF00),
   const Color(0xFF00FF00),
